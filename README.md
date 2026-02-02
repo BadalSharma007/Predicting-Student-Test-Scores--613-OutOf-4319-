@@ -42,5 +42,10 @@ Document and present a data science solution professionally
 Whether for your portfolio, resume, or interview preparation, this repository represents a strong applied machine learning project with competitive results.
 <img width="1058" height="248" alt="Screenshot 2026-02-02 at 2 55 40 PM" src="https://github.com/user-attachments/assets/b83f7c18-4d76-4af4-b8bf-6f842c692485" />
 
+MY NOTEBOOK
+<img width="1034" height="264" alt="Screenshot 2026-02-02 at 2 56 46 PM" src="https://github.com/user-attachments/assets/646ef586-3307-4479-8b47-bd0e1a85113a" />
+
+
+
 
 
