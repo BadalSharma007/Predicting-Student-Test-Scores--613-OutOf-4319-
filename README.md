@@ -40,3 +40,7 @@ Improve model performance through experimentation
 Document and present a data science solution professionally
 
 Whether for your portfolio, resume, or interview preparation, this repository represents a strong applied machine learning project with competitive results.
+<img width="1058" height="248" alt="Screenshot 2026-02-02 at 2 55 40 PM" src="https://github.com/user-attachments/assets/b83f7c18-4d76-4af4-b8bf-6f842c692485" />
+
+
+
